@@ -244,6 +244,11 @@ function ProList<RecordType = any>(props: ProListProps<RecordType>) {
   });
 
   const renderHeader = () => {
+    // 如果传入header，header 优先级更高
+    if (rest.header) {
+      return rest.header;
+    }
+
     if (headerRender === false) {
       return null;
     }

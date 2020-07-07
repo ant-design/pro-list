@@ -21,7 +21,7 @@ export default () => (
       renderItem={(item) => ({
         title: item,
         subTitle: (
-          <div>
+          <div style={{ display: 'flex' }}>
             <Tag color="blue">Ant Design</Tag>
             <Tag
               color="#5BD8A6"

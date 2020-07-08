@@ -102,19 +102,28 @@ exports[`ProList render base.tsx should match snapshot  1`] = `
                           class="ant-pro-list-row-show-action-hover ant-pro-list-row-subTitle"
                         >
                           <div
-                            style="display:flex"
+                            class="ant-space ant-space-horizontal ant-space-align-center"
                           >
-                            <span
-                              class="ant-tag ant-tag-blue"
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -191,19 +200,28 @@ exports[`ProList render base.tsx should match snapshot  1`] = `
                           class="ant-pro-list-row-show-action-hover ant-pro-list-row-subTitle"
                         >
                           <div
-                            style="display:flex"
+                            class="ant-space ant-space-horizontal ant-space-align-center"
                           >
-                            <span
-                              class="ant-tag ant-tag-blue"
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -280,19 +298,28 @@ exports[`ProList render base.tsx should match snapshot  1`] = `
                           class="ant-pro-list-row-show-action-hover ant-pro-list-row-subTitle"
                         >
                           <div
-                            style="display:flex"
+                            class="ant-space ant-space-horizontal ant-space-align-center"
                           >
-                            <span
-                              class="ant-tag ant-tag-blue"
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -369,19 +396,28 @@ exports[`ProList render base.tsx should match snapshot  1`] = `
                           class="ant-pro-list-row-show-action-hover ant-pro-list-row-subTitle"
                         >
                           <div
-                            style="display:flex"
+                            class="ant-space ant-space-horizontal ant-space-align-center"
                           >
-                            <span
-                              class="ant-tag ant-tag-blue"
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -1430,18 +1466,29 @@ exports[`ProList render expand.tsx should match snapshot  1`] = `
                         <div
                           class="ant-pro-list-row-subTitle"
                         >
-                          <div>
-                            <span
-                              class="ant-tag ant-tag-blue"
+                          <div
+                            class="ant-space ant-space-horizontal ant-space-align-center"
+                          >
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -1579,18 +1626,29 @@ exports[`ProList render expand.tsx should match snapshot  1`] = `
                         <div
                           class="ant-pro-list-row-subTitle"
                         >
-                          <div>
-                            <span
-                              class="ant-tag ant-tag-blue"
+                          <div
+                            class="ant-space ant-space-horizontal ant-space-align-center"
+                          >
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -1728,18 +1786,29 @@ exports[`ProList render expand.tsx should match snapshot  1`] = `
                         <div
                           class="ant-pro-list-row-subTitle"
                         >
-                          <div>
-                            <span
-                              class="ant-tag ant-tag-blue"
+                          <div
+                            class="ant-space ant-space-horizontal ant-space-align-center"
+                          >
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -1877,18 +1946,29 @@ exports[`ProList render expand.tsx should match snapshot  1`] = `
                         <div
                           class="ant-pro-list-row-subTitle"
                         >
-                          <div>
-                            <span
-                              class="ant-tag ant-tag-blue"
+                          <div
+                            class="ant-space ant-space-horizontal ant-space-align-center"
+                          >
+                            <div
+                              class="ant-space-item"
+                              style="margin-right:0"
                             >
-                              Ant Design
-                            </span>
-                            <span
-                              class="ant-tag ant-tag-has-color"
-                              style="background-color:#5BD8A6;margin-right:8px"
+                              <span
+                                class="ant-tag ant-tag-blue"
+                              >
+                                Ant Design
+                              </span>
+                            </div>
+                            <div
+                              class="ant-space-item"
                             >
-                              TechUI
-                            </span>
+                              <span
+                                class="ant-tag ant-tag-has-color"
+                                style="background-color:#5BD8A6"
+                              >
+                                TechUI
+                              </span>
+                            </div>
                           </div>
                         </div>
                       </div>

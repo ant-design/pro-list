@@ -1,10 +1,6 @@
-<h1 align="center">@ant-design/pro-list</h1>
+# 此仓库已废弃
 
-<div align="center">
-
-🏆 Use Ant Design List like a Pro!
-
-</div>
+**重要：** 此仓库后续不再维护，也不会接受更多的特性更新。`ant-design/pro-list` 将会迁移至 `ant-design/pro-components` 仓库进行后续的维护，访问 https://procomponent.ant.design/ 了解更多。此变更不影响继续使用 `@ant-design/pro-list` 这个 npm 包名安装使用此组件。
 
 # ProList (高级列表)
 
